@@ -1,2 +1,2 @@
-# PySneakyAudiocode
+# Python Sneaky Audio (code)
 PySneakyAudioResCode
